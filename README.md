@@ -7,9 +7,9 @@
 
 Passionate about technology. I'm currently graduating in Computer Engineering, I work as a back-end developer with a focus on Java and Spring Boot.
 
-<div style="display: flex; justify-content: space-between;"><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=Leo-Benaducci&show_icons=true&include_all_commits=true&theme=transparent" alt="Leo Benaducci's GitHub Stats" height="180em" align="center"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leo-Benaducci&layout=compact&theme=transparent" alt="Most Used Languages" height="180em" align="center"/>
+<div style="display: inline_block"><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=Leo-Benaducci&show_icons=true&include_all_commits=true&theme=transparent" alt="Leo Benaducci's GitHub Stats" height="150em" align="center"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leo-Benaducci&layout=compact&theme=transparent" alt="Most Used Languages" height="150em" align="center"/>
 </div>
 
 ## Languages and tools
