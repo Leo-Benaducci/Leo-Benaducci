@@ -24,6 +24,15 @@ Passionate about technology. I'm currently graduating in Computer Engineering, I
 
 #
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/leo-benaducci)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lbenaducci.dev@gmail.com)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/597494255958884363)
+<a href="https://linkedin.com/in/leo-benaducci" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:lbenaducci.dev@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://discord.com/users/597494255958884363" target="_blank">
+  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
+</a>
+<a href="https://wakatime.com/@080f41c7-f7d7-48c0-adb3-1dc158585be8" target="_blank">
+  <img src="https://wakatime.com/badge/user/080f41c7-f7d7-48c0-adb3-1dc158585be8.svg?style=for-the-badge" alt="Total time coded since Mar 23 2022" />
+</a>
